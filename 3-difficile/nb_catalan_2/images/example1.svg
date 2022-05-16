@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="196.0" height="110" viewBox="-74 -15 196.0 110">
+<defs>
+</defs>
+<path d="M0,0 L-52,16" stroke-width="2" stroke="grey" />
+<rect x="-55" y="13" width="6" height="6" fill="white" stroke-width="2" stroke="grey" />
+<path d="M0,0 L64,20" stroke-width="4" stroke="grey" />
+<path d="M64,20 L38,36" stroke-width="2" stroke="grey" />
+<rect x="35" y="33" width="6" height="6" fill="white" stroke-width="2" stroke="grey" />
+<path d="M64,20 L96,40" stroke-width="4" stroke="grey" />
+<path d="M96,40 L80,60" stroke-width="4" stroke="grey" />
+<path d="M80,60 L73,76" stroke-width="2" stroke="grey" />
+<rect x="70" y="73" width="6" height="6" fill="white" stroke-width="2" stroke="grey" />
+<path d="M80,60 L86,76" stroke-width="2" stroke="grey" />
+<rect x="83" y="73" width="6" height="6" fill="white" stroke-width="2" stroke="grey" />
+<circle cx="80" cy="60" r="6" fill="red" stroke-width="3" stroke="grey" />
+<path d="M96,40 L108,56" stroke-width="2" stroke="grey" />
+<rect x="105" y="53" width="6" height="6" fill="white" stroke-width="2" stroke="grey" />
+<circle cx="96" cy="40" r="6" fill="red" stroke-width="3" stroke="grey" />
+<circle cx="64" cy="20" r="6" fill="red" stroke-width="3" stroke="grey" />
+<circle cx="0" cy="0" r="6" fill="red" stroke-width="3" stroke="grey" />
+</svg>

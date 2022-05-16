@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="76" height="76" viewBox="-8 -68 76 76">
+<defs>
+</defs>
+<path d="M0,0 L60,0" stroke-width="2" stroke="grey" />
+<circle cx="0" cy="0" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<circle cx="60" cy="0" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<path d="M0,-20 L60,-20" stroke-width="2" stroke="grey" />
+<circle cx="0" cy="-20" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<circle cx="60" cy="-20" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<path d="M0,-40 L60,-40" stroke-width="2" stroke="grey" />
+<circle cx="0" cy="-40" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<circle cx="60" cy="-40" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<path d="M0,-60 L60,-60" stroke-width="2" stroke="grey" />
+<circle cx="0" cy="-60" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<circle cx="60" cy="-60" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<path d="M0,0 L0,-60" stroke-width="2" stroke="grey" />
+<circle cx="0" cy="0" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<circle cx="0" cy="-60" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<path d="M20,0 L20,-60" stroke-width="2" stroke="grey" />
+<circle cx="20" cy="0" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<circle cx="20" cy="-60" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<path d="M40,0 L40,-60" stroke-width="2" stroke="grey" />
+<circle cx="40" cy="0" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<circle cx="40" cy="-60" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<path d="M60,0 L60,-60" stroke-width="2" stroke="grey" />
+<circle cx="60" cy="0" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<circle cx="60" cy="-60" r="0.5" fill="grey" stroke-width="1" stroke="grey" />
+<circle cx="0" cy="0" r="2" fill="red" stroke-width="2" stroke="red" />
+<path d="M0,0 L20,0" fill="none" stroke-width="4" stroke="red" />
+<circle cx="20" cy="0" r="2" fill="red" stroke-width="2" stroke="red" />
+<path d="M20,0 L40,0" fill="none" stroke-width="4" stroke="red" />
+<circle cx="40" cy="0" r="2" fill="red" stroke-width="2" stroke="red" />
+<path d="M40,0 L40,-20" fill="none" stroke-width="4" stroke="red" />
+<circle cx="40" cy="-20" r="2" fill="red" stroke-width="2" stroke="red" />
+<path d="M40,-20 L40,-40" fill="none" stroke-width="4" stroke="red" />
+<circle cx="40" cy="-40" r="2" fill="red" stroke-width="2" stroke="red" />
+<path d="M40,-40 L60,-60" fill="none" stroke-width="4" stroke="red" />
+<circle cx="60" cy="-60" r="2" fill="red" stroke-width="2" stroke="red" />
+</svg>

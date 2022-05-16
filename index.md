@@ -1,3 +1,0 @@
-# Epreuves Pratiques
-
-test

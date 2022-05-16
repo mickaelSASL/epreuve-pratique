@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="80" height="80" viewBox="-40 -72 80 80">
+<defs>
+</defs>
+<circle cx="0" cy="-64" r="4" fill="red" stroke-width="2" stroke="red" />
+<path d="M0,-64 L-30,-32" fill="none" stroke-width="4" stroke="red" />
+<circle cx="-30" cy="-32" r="4" fill="red" stroke-width="2" stroke="red" />
+<circle cx="-30" cy="-32" r="4" fill="red" stroke-width="2" stroke="red" />
+<path d="M-30,-32 L-30,0" fill="none" stroke-width="4" stroke="red" />
+<circle cx="-30" cy="0" r="4" fill="red" stroke-width="2" stroke="red" />
+<circle cx="-30" cy="0" r="4" fill="red" stroke-width="2" stroke="red" />
+<path d="M0,-64 L0,-32" fill="none" stroke-width="4" stroke="red" />
+<circle cx="0" cy="-32" r="4" fill="red" stroke-width="2" stroke="red" />
+<circle cx="0" cy="-32" r="4" fill="red" stroke-width="2" stroke="red" />
+<path d="M0,-32 L-10,0" fill="none" stroke-width="4" stroke="red" />
+<circle cx="-10" cy="0" r="4" fill="red" stroke-width="2" stroke="red" />
+<circle cx="-10" cy="0" r="4" fill="red" stroke-width="2" stroke="red" />
+<path d="M0,-32 L10,0" fill="none" stroke-width="4" stroke="red" />
+<circle cx="10" cy="0" r="4" fill="red" stroke-width="2" stroke="red" />
+<circle cx="10" cy="0" r="4" fill="red" stroke-width="2" stroke="red" />
+<path d="M0,-64 L30,-32" fill="none" stroke-width="4" stroke="red" />
+<circle cx="30" cy="-32" r="4" fill="red" stroke-width="2" stroke="red" />
+<circle cx="30" cy="-32" r="4" fill="red" stroke-width="2" stroke="red" />
+</svg>

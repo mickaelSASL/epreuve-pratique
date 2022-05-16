@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="120.0" height="330" viewBox="-50 -15 120.0 330">
+<defs>
+</defs>
+<path d="M0,0 L0,40" stroke-width="4" stroke="grey" />
+<path d="M0,40 L-40,80" stroke-width="4" stroke="grey" />
+<circle cx="-40" cy="80" r="6" fill="red" stroke-width="3" stroke="grey" />
+<path d="M0,40 L40,80" stroke-width="4" stroke="grey" />
+<path d="M40,80 L40,120" stroke-width="4" stroke="grey" />
+<path d="M40,120 L20.0,160" stroke-width="4" stroke="grey" />
+<path d="M20.0,160 L20.0,200" stroke-width="4" stroke="grey" />
+<circle cx="20.0" cy="200" r="6" fill="red" stroke-width="3" stroke="grey" />
+<circle cx="20.0" cy="160" r="6" fill="red" stroke-width="3" stroke="grey" />
+<path d="M40,120 L60.0,160" stroke-width="4" stroke="grey" />
+<circle cx="60.0" cy="160" r="6" fill="red" stroke-width="3" stroke="grey" />
+<circle cx="40" cy="120" r="6" fill="red" stroke-width="3" stroke="grey" />
+<circle cx="40" cy="80" r="6" fill="red" stroke-width="3" stroke="grey" />
+<circle cx="0" cy="40" r="6" fill="red" stroke-width="3" stroke="grey" />
+<circle cx="0" cy="0" r="6" fill="red" stroke-width="3" stroke="grey" />
+</svg>
