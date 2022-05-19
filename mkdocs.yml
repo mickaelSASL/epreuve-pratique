@@ -1,0 +1,106 @@
+site_name: Epreuve pratique - Entrainement
+site_url: https://mickaelsasl.github.io/epreuve-pratique
+
+
+
+theme:
+    name: material
+    custom_dir: overrides/
+    favicon: dog
+    icon:
+      logo: material/dog
+
+    font: false                     # RGPD ; pas de fonte Google
+    language: fr                    # français
+    palette:
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          primary: blue grey
+          accent: light green
+          toggle:
+            icon: material/weather-sunny
+            name: Switch to dark mode
+
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          toggle:
+            icon: material/weather-night
+            name: Switch to light mode
+
+    features:
+        - navigation.instant
+        - navigation.tabs
+        - navigation.top
+        - toc.integrate
+        - header.autohide
+
+
+markdown_extensions:
+    - meta
+    - abbr
+
+    - def_list                      # Les listes de définition.
+    - attr_list                     # Un peu de CSS et des attributs HTML.
+    - footnotes                     # Notes[^1] de bas de page.  [^1]: ma note.
+    - admonition                    # Blocs colorés  !!! info "ma remarque"
+    - pymdownx.details              #   qui peuvent se plier/déplier.
+    - pymdownx.caret                # Passage ^^souligné^^ ou en ^exposant^.
+    - pymdownx.mark                 # Passage ==surligné==.
+    - pymdownx.tilde                # Passage ~~barré~~ ou en ~indice~.
+    - pymdownx.highlight:           # Coloration syntaxique du code
+        auto_title: true
+        auto_title_map:
+            "Python": "🐍 Script Python"
+            "Python Console Session": "🐍 Console Python"
+            "Text Only": "📋 Texte"
+            "E-mail": "📥 Entrée"
+            "Text Output": "📤 Sortie"
+
+    - pymdownx.inlinehilite         # pour  `#!python  <python en ligne>`
+    - pymdownx.snippets             # Inclusion de fichiers externe.
+    - pymdownx.tasklist:            # Cases à cocher  - [ ]  et - [x]
+        custom_checkbox:    false   #   avec cases d'origine
+        clickable_checkbox: true    #   et cliquables.
+    - pymdownx.tabbed:              # Volets glissants.  === "Mon volet"
+        alternate_style: true 
+
+    - pymdownx.keys:                # Touches du clavier.  ++ctrl+d++
+        separator: "\uff0b"
+    - pymdownx.emoji:               # Émojis  :boom:
+        emoji_index:     !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+
+    - pymdownx.arithmatex:
+        generic: true
+    - toc:
+        permalink: ⚓︎
+        toc_depth: 3
+
+
+nav:
+  - "🏡 Accueil": index.md
+  - ... | regex=^(?:(?!_REM.md).)*$
+
+plugins:
+  - search
+  - awesome-pages:
+        collapse_single_pages: true
+  - macros
+  - tags:
+      tags_file: tags.md
+
+extra_javascript:
+  - xtra/config.js                    # MathJax
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - xtra/interpreter.js
+  - https://code.iconify.design/2/2.2.1/iconify.min.js
+
+extra_css:
+  - xtra/pyoditeur.css
+  - xtra/ajustements.css                      # ajustements

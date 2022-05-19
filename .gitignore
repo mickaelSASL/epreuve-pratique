@@ -1,0 +1,23 @@
+#MkDocs
+site/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environnement virtuel
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# virtual envs
+.venv/
+
+# VSCode
+.vscode/
+
+# Coverage
+.coverage
+
+# truc bizarre
+.DS_Store
